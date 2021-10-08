@@ -1,0 +1,2 @@
+for start server
+    bundle exec rails s
