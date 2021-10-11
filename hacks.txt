@@ -1,7 +1,3 @@
 # for start server
 #    bundle exec rails s
 
-# access_token for git
-#    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
-#
-#   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
